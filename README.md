@@ -28,3 +28,9 @@ https://jumin.mois.go.kr/#
 연령별 교통카드 사용 데이터를 활용하여 평균 이동거리 및 사용 비율 계산
 고령화 인구의 활동반경을 추측하고 추측한 활동 반경 사이 겹치지 않는 복지-요양시설이 무엇이 있는지.
 -> 활동반경 계산에 대한 근거 필요
+
+### 2-1. 지도 활용
+folium
+https://aboutnlp.tistory.com/33
+행정구역 경계 그리기
+https://velog.io/@sooyeon/folium-Circle-Point-map-GeoJson-%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD-%EA%B2%BD%EA%B3%84-%EA%B7%B8%EB%A6%AC%EA%B8%B0
