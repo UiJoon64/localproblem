@@ -7,7 +7,10 @@ https://data.bdi.re.kr/data/indicator/keyView.do?boardId=3&gubun=%ED%95%B5%EC%8B
 부산읍면동별_연도별_5세별인구(2011_2021).xlsx
 (보기 쉬우나 2021년까지임)
 
-코시스 자료 활용하기, 혹은 지아 링크
+https://jumin.mois.go.kr/#
+
+혹은
+코시스 통계자료
 
 1-2. 요양시설 관련
 1. **부산광역시_노인요양시설 현황(SHP):** https://www.data.go.kr/data/15084231/fileData.do
